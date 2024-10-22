@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Anthony for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Anthony](https://github.com/MOGARRR) for the [Lighthouse Labs](https://www.lighthouselabs.ca/?gad_source=1&gclid=Cj0KCQjwmt24BhDPARIsAJFYKk0EUqbhqAVYuuVdOKiCApQBOY-EYQUzz65eDQCNyw-1jrxbytcMqr8aAq4EEALw_wcB) Web Development Bootcamp.
